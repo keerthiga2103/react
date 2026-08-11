@@ -2,10 +2,12 @@
 
 
 
-function hello(){
+function Hello(){
+    return(
     <>
-    <h2> hi hello</h2>
+    <h1> Hi Hello</h1>
     </>
+    )
 }
 
-export default hello
+export default Hello
